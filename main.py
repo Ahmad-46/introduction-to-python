@@ -4,6 +4,9 @@
 #it is basically a place in the computer memory which has a name 
 age = 14 # variable integer defined
 first_name = "Ahmad" #string type variable defining
-print(f"{first_name} is {age} year old.")
-print(f"{first_name} loves football and coding.")
-print(F"{first_name} reads in 9th class.")
+last_name = "toheed"
+fav_subject = "physics"
+print(f"{first_name} {last_name} is {age} year old.")
+print(f"{first_name} {last_name} loves games and coding.")
+print(F"{first_name} {last_name} reads in 9th class.")
+print(F"{first_name} {last_name}.love to learn {fav_subject}")
